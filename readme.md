@@ -29,6 +29,8 @@ APP_ENV=local
 APP_DEBUG=true
 APP_KEY=
 
+APP_THEME=
+
 DB_HOST=localhost
 DB_DATABASE=larablog
 DB_USERNAME=root
